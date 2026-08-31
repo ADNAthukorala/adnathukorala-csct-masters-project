@@ -1,0 +1,401 @@
+user_id,rank,exercise_id,exercise_name,similarity_score,recommendation_score,in_ground_truth,muscle_group_match,level_match,equipment_match,mechanics_match,force_match,features_matched_out_of_5
+U001,1,EX414,Single Leg Squat (leg wrapped),0.3426,34.3,False,True,True,True,False,True,4
+U001,2,EX415,Step Down,0.3218,32.2,False,True,False,True,False,True,3
+U001,3,EX522,Single Leg Squat (leg wrapped),0.2987,29.9,False,False,True,True,False,True,3
+U001,4,EX417,Single Leg Squat,0.2887,28.9,False,True,True,True,False,True,4
+U001,5,EX418,Single Leg Split Squat,0.2841,28.4,False,True,True,True,False,True,4
+U001,6,EX523,Squat,0.2837,28.4,False,False,False,True,False,True,2
+U001,7,EX556,Inverse Leg Curl,0.2824,28.2,False,False,False,True,True,False,2
+U001,8,EX524,Step Down,0.2749,27.5,False,False,False,True,False,True,2
+U002,1,EX415,Step Down,0.4441,44.4,True,True,True,True,True,True,5
+U002,2,EX550,Hamstring Raise,0.3951,39.5,False,False,True,True,True,False,3
+U002,3,EX523,Squat,0.3943,39.4,False,False,True,True,True,True,4
+U002,4,EX414,Single Leg Squat (leg wrapped),0.391,39.1,False,True,False,True,True,True,4
+U002,5,EX524,Step Down,0.382,38.2,False,False,True,True,True,True,4
+U002,6,EX299,Chest Dip,0.379,37.9,False,False,True,True,True,True,4
+U002,7,EX556,Inverse Leg Curl,0.3632,36.3,False,False,True,True,False,False,2
+U002,8,EX590,Single Leg Calf Raise,0.3352,33.5,False,False,True,True,False,True,3
+U003,1,EX415,Step Down,0.4471,44.7,False,True,False,True,False,True,3
+U003,2,EX414,Single Leg Squat (leg wrapped),0.4203,42.0,False,True,False,True,False,True,3
+U003,3,EX523,Squat,0.3956,39.6,False,False,False,True,False,True,2
+U003,4,EX556,Inverse Leg Curl,0.3937,39.4,False,False,False,True,True,False,2
+U003,5,EX524,Step Down,0.3832,38.3,False,False,False,True,False,True,2
+U003,6,EX371,Lying Hip Extension,0.3646,36.5,True,True,True,True,True,True,5
+U003,7,EX590,Single Leg Calf Raise,0.3627,36.3,False,False,False,True,True,True,3
+U003,8,EX522,Single Leg Squat (leg wrapped),0.3588,35.9,False,False,False,True,False,True,2
+U004,1,EX414,Single Leg Squat (leg wrapped),0.4409,44.1,True,True,True,True,True,True,5
+U004,2,EX415,Step Down,0.4125,41.2,False,True,False,True,True,True,4
+U004,3,EX417,Single Leg Squat,0.3953,39.5,True,True,True,True,True,True,5
+U004,4,EX418,Single Leg Split Squat,0.389,38.9,True,True,True,True,True,True,5
+U004,5,EX522,Single Leg Squat (leg wrapped),0.3822,38.2,False,False,True,True,True,True,4
+U004,6,EX550,Hamstring Raise,0.3659,36.6,False,False,False,True,True,False,2
+U004,7,EX523,Squat,0.3611,36.1,False,False,False,True,True,True,3
+U004,8,EX299,Chest Dip,0.3516,35.2,False,False,False,True,True,True,3
+U005,1,EX415,Step Down,0.4353,43.5,False,True,True,True,False,False,3
+U005,2,EX550,Hamstring Raise,0.4094,40.9,False,False,True,True,False,True,3
+U005,3,EX556,Inverse Leg Curl,0.4062,40.6,False,False,True,True,True,True,4
+U005,4,EX414,Single Leg Squat (leg wrapped),0.3815,38.2,False,True,False,True,False,False,2
+U005,5,EX523,Squat,0.3815,38.1,False,False,True,True,False,False,2
+U005,6,EX299,Chest Dip,0.3711,37.1,False,False,True,True,False,False,2
+U005,7,EX524,Step Down,0.3696,37.0,False,False,True,True,False,False,2
+U005,8,EX469,Pike,0.3599,36.0,True,True,True,True,True,True,5
+U006,1,EX415,Step Down,0.3403,34.0,False,True,False,True,False,False,2
+U006,2,EX416,Hip Bridge,0.3249,32.5,False,True,True,True,True,False,4
+U006,3,EX550,Hamstring Raise,0.3204,32.0,False,False,False,True,False,True,2
+U006,4,EX414,Single Leg Squat (leg wrapped),0.3199,32.0,False,True,False,True,False,False,2
+U006,5,EX556,Inverse Leg Curl,0.3147,31.5,False,False,False,True,True,True,3
+U006,6,EX017,Neck Retraction,0.3129,31.3,False,False,True,True,True,True,4
+U006,7,EX523,Squat,0.2938,29.4,False,False,False,True,False,False,1
+U006,8,EX557,Leg Curl,0.2922,29.2,False,False,True,True,True,True,4
+U007,1,EX415,Step Down,0.3239,32.4,False,True,False,True,False,True,3
+U007,2,EX414,Single Leg Squat (leg wrapped),0.3044,30.4,False,True,False,True,False,True,3
+U007,3,EX416,Hip Bridge,0.2915,29.2,True,True,True,True,True,True,5
+U007,4,EX523,Squat,0.2856,28.6,False,False,False,True,False,True,2
+U007,5,EX556,Inverse Leg Curl,0.2842,28.4,False,False,False,True,True,False,2
+U007,6,EX524,Step Down,0.2766,27.7,False,False,False,True,False,True,2
+U007,7,EX550,Hamstring Raise,0.2693,26.9,False,False,False,True,False,False,1
+U007,8,EX371,Lying Hip Extension,0.2693,26.9,True,True,True,True,True,True,5
+U008,1,EX415,Step Down,0.4184,41.8,False,True,True,True,False,False,3
+U008,2,EX550,Hamstring Raise,0.3935,39.3,False,False,True,True,False,True,3
+U008,3,EX556,Inverse Leg Curl,0.3905,39.0,False,False,True,True,True,True,4
+U008,4,EX523,Squat,0.3668,36.7,False,False,True,True,False,False,2
+U008,5,EX414,Single Leg Squat (leg wrapped),0.3667,36.7,False,True,False,True,False,False,2
+U008,6,EX299,Chest Dip,0.3567,35.7,False,False,True,True,False,False,2
+U008,7,EX524,Step Down,0.3553,35.5,False,False,True,True,False,False,2
+U008,8,EX590,Single Leg Calf Raise,0.3369,33.7,False,False,True,True,True,False,3
+U009,1,EX414,Single Leg Squat (leg wrapped),0.432,43.2,False,True,True,True,False,False,3
+U009,2,EX415,Step Down,0.4009,40.1,False,True,False,True,False,False,2
+U009,3,EX417,Single Leg Squat,0.3819,38.2,False,True,True,True,False,False,3
+U009,4,EX550,Hamstring Raise,0.3775,37.7,False,False,False,True,False,True,2
+U009,5,EX418,Single Leg Split Squat,0.3758,37.6,False,True,True,True,False,False,3
+U009,6,EX556,Inverse Leg Curl,0.3705,37.1,False,False,False,True,True,True,3
+U009,7,EX522,Single Leg Squat (leg wrapped),0.3705,37.0,False,False,True,True,False,False,2
+U009,8,EX227,Pull-up,0.3575,35.8,False,False,True,True,False,True,3
+U010,1,EX556,Inverse Leg Curl,0.4336,43.4,False,False,True,True,True,True,4
+U010,2,EX523,Squat,0.4099,41.0,False,False,True,True,False,False,2
+U010,3,EX524,Step Down,0.3971,39.7,False,False,True,True,False,False,2
+U010,4,EX415,Step Down,0.3838,38.4,False,False,True,True,False,False,2
+U010,5,EX590,Single Leg Calf Raise,0.3752,37.5,False,False,True,True,True,False,3
+U010,6,EX237,Pull-up,0.3657,36.6,False,True,False,True,False,True,3
+U010,7,EX236,Chin-up,0.345,34.5,False,True,False,True,False,True,3
+U010,8,EX305,Chest Dip,0.3441,34.4,False,False,True,True,False,False,2
+U011,1,EX227,Pull-up,0.3265,32.7,False,True,False,True,False,True,3
+U011,2,EX225,Archer Pull-up,0.3199,32.0,False,True,False,True,False,True,3
+U011,3,EX550,Hamstring Raise,0.3185,31.9,False,False,False,True,False,True,2
+U011,4,EX556,Inverse Leg Curl,0.3128,31.3,False,False,False,True,True,True,3
+U011,5,EX017,Neck Retraction,0.311,31.1,False,False,True,True,True,True,4
+U011,6,EX226,Chin-up,0.309,30.9,False,True,False,True,False,True,3
+U011,7,EX228,Pull-up: Parallel Grip,0.3051,30.5,False,True,False,True,False,True,3
+U011,8,EX523,Squat,0.292,29.2,False,False,False,True,False,False,1
+U012,1,EX227,Pull-up,0.424,42.4,True,True,True,True,True,True,5
+U012,2,EX225,Archer Pull-up,0.4154,41.5,False,True,True,True,True,True,5
+U012,3,EX226,Chin-up,0.4013,40.1,False,True,True,True,True,True,5
+U012,4,EX228,Pull-up: Parallel Grip,0.3961,39.6,True,True,True,True,True,True,5
+U012,5,EX237,Pull-up,0.3825,38.2,True,True,True,True,True,True,5
+U012,6,EX550,Hamstring Raise,0.3739,37.4,False,False,False,True,True,True,3
+U012,7,EX522,Single Leg Squat (leg wrapped),0.3678,36.8,False,False,True,True,True,False,3
+U012,8,EX236,Chin-up,0.3609,36.1,False,True,True,True,True,True,5
+U013,1,EX237,Pull-up,0.4065,40.7,False,True,True,True,False,True,4
+U013,2,EX556,Inverse Leg Curl,0.3986,39.9,False,False,False,True,True,True,3
+U013,3,EX522,Single Leg Squat (leg wrapped),0.3954,39.5,False,False,True,True,False,False,2
+U013,4,EX414,Single Leg Squat (leg wrapped),0.3837,38.4,False,False,True,True,False,False,2
+U013,5,EX236,Chin-up,0.3836,38.4,False,True,True,True,False,True,4
+U013,6,EX523,Squat,0.3749,37.5,False,False,False,True,False,False,1
+U013,7,EX524,Step Down,0.3632,36.3,False,False,False,True,False,False,1
+U013,8,EX415,Step Down,0.351,35.1,False,False,False,True,False,False,1
+U014,1,EX550,Hamstring Raise,0.3412,34.1,False,False,True,True,False,True,3
+U014,2,EX556,Inverse Leg Curl,0.3387,33.9,False,False,True,True,True,True,4
+U014,3,EX227,Pull-up,0.3266,32.7,False,True,False,True,False,True,3
+U014,4,EX225,Archer Pull-up,0.3199,32.0,False,True,False,True,False,True,3
+U014,5,EX523,Squat,0.3181,31.8,False,False,True,True,False,False,2
+U014,6,EX239,Pull-up: Self-assisted,0.3097,31.0,False,True,True,True,False,True,4
+U014,7,EX299,Chest Dip,0.3093,30.9,False,False,True,True,False,False,2
+U014,8,EX226,Chin-up,0.309,30.9,False,True,False,True,False,True,3
+U015,1,EX227,Pull-up,0.2911,29.1,False,True,False,True,True,True,4
+U015,2,EX550,Hamstring Raise,0.2859,28.6,False,False,False,True,True,True,3
+U015,3,EX523,Squat,0.2855,28.6,False,False,False,True,True,False,2
+U015,4,EX225,Archer Pull-up,0.2852,28.5,False,True,False,True,True,True,4
+U015,5,EX556,Inverse Leg Curl,0.2813,28.1,False,False,False,True,False,True,2
+U015,6,EX524,Step Down,0.2766,27.7,False,False,False,True,True,False,2
+U015,7,EX226,Chin-up,0.2754,27.5,False,True,False,True,True,True,4
+U015,8,EX237,Pull-up,0.2741,27.4,False,True,False,True,True,True,4
+U016,1,EX227,Pull-up,0.4392,43.9,True,True,True,True,True,True,5
+U016,2,EX225,Archer Pull-up,0.4303,43.0,False,True,True,True,True,True,5
+U016,3,EX226,Chin-up,0.4157,41.6,False,True,True,True,True,True,5
+U016,4,EX228,Pull-up: Parallel Grip,0.4103,41.0,True,True,True,True,True,True,5
+U016,5,EX237,Pull-up,0.3962,39.6,True,True,True,True,True,True,5
+U016,6,EX550,Hamstring Raise,0.3873,38.7,False,False,False,True,True,True,3
+U016,7,EX522,Single Leg Squat (leg wrapped),0.3809,38.1,False,False,True,True,True,False,3
+U016,8,EX236,Chin-up,0.3738,37.4,False,True,True,True,True,True,5
+U017,1,EX556,Inverse Leg Curl,0.4033,40.3,False,False,False,True,True,True,3
+U017,2,EX523,Squat,0.3793,37.9,False,False,False,True,False,False,1
+U017,3,EX524,Step Down,0.3674,36.7,False,False,False,True,False,False,1
+U017,4,EX237,Pull-up,0.3657,36.6,False,True,False,True,False,True,3
+U017,5,EX415,Step Down,0.3551,35.5,False,False,False,True,False,False,1
+U017,6,EX590,Single Leg Calf Raise,0.3482,34.8,False,False,False,True,True,False,2
+U017,7,EX236,Chin-up,0.345,34.5,False,True,False,True,False,True,3
+U017,8,EX522,Single Leg Squat (leg wrapped),0.344,34.4,False,False,False,True,False,False,1
+U018,1,EX299,Chest Dip,0.4764,47.6,True,True,True,True,True,True,5
+U018,2,EX305,Chest Dip,0.4331,43.3,False,True,True,True,True,True,5
+U018,3,EX550,Hamstring Raise,0.3883,38.8,False,False,True,True,True,False,3
+U018,4,EX523,Squat,0.3875,38.7,False,False,True,True,True,True,4
+U018,5,EX524,Step Down,0.3754,37.5,False,False,True,True,True,True,4
+U018,6,EX415,Step Down,0.3628,36.3,False,False,True,True,True,True,4
+U018,7,EX556,Inverse Leg Curl,0.3569,35.7,False,False,True,True,False,False,2
+U018,8,EX590,Single Leg Calf Raise,0.3294,32.9,False,False,True,True,False,True,3
+U019,1,EX299,Chest Dip,0.4488,44.9,False,True,False,True,True,True,4
+U019,2,EX305,Chest Dip,0.4049,40.5,False,True,False,True,True,True,4
+U019,3,EX522,Single Leg Squat (leg wrapped),0.3757,37.6,False,False,True,True,True,True,4
+U019,4,EX414,Single Leg Squat (leg wrapped),0.3647,36.5,False,False,True,True,True,True,4
+U019,5,EX550,Hamstring Raise,0.3597,36.0,False,False,False,True,True,False,2
+U019,6,EX523,Squat,0.3549,35.5,False,False,False,True,True,True,3
+U019,7,EX524,Step Down,0.3438,34.4,False,False,False,True,True,True,3
+U019,8,EX308,Fly,0.3418,34.2,False,True,False,True,False,True,3
+U020,1,EX299,Chest Dip,0.4779,47.8,True,True,True,True,True,True,5
+U020,2,EX305,Chest Dip,0.4344,43.4,True,True,True,True,True,True,5
+U020,3,EX550,Hamstring Raise,0.3894,38.9,False,False,True,True,True,False,3
+U020,4,EX523,Squat,0.3886,38.9,False,False,True,True,True,True,4
+U020,5,EX524,Step Down,0.3764,37.6,False,False,True,True,True,True,4
+U020,6,EX307,Chest Press,0.3714,37.1,True,True,True,True,True,True,5
+U020,7,EX306,Chest Dip,0.3704,37.0,False,True,True,True,True,True,5
+U020,8,EX415,Step Down,0.3638,36.4,False,False,True,True,True,True,4
+U021,1,EX299,Chest Dip,0.386,38.6,False,True,False,True,False,True,3
+U021,2,EX305,Chest Dip,0.347,34.7,False,True,False,True,False,True,3
+U021,3,EX308,Fly,0.3378,33.8,True,True,True,True,True,True,5
+U021,4,EX550,Hamstring Raise,0.3067,30.7,False,False,False,True,False,False,1
+U021,5,EX523,Squat,0.301,30.1,False,False,False,True,False,True,2
+U021,6,EX017,Neck Retraction,0.3004,30.0,False,False,True,True,True,False,3
+U021,7,EX556,Inverse Leg Curl,0.2997,30.0,False,False,False,True,True,False,2
+U021,8,EX524,Step Down,0.2916,29.2,False,False,False,True,False,True,2
+U022,1,EX299,Chest Dip,0.4646,46.5,True,True,False,True,True,True,4
+U022,2,EX305,Chest Dip,0.4192,41.9,True,True,False,True,True,True,4
+U022,3,EX522,Single Leg Squat (leg wrapped),0.3889,38.9,False,False,True,True,True,True,4
+U022,4,EX414,Single Leg Squat (leg wrapped),0.3774,37.7,False,False,True,True,True,True,4
+U022,5,EX550,Hamstring Raise,0.3723,37.2,False,False,False,True,True,False,2
+U022,6,EX523,Squat,0.3673,36.7,False,False,False,True,True,True,3
+U022,7,EX524,Step Down,0.3558,35.6,False,False,False,True,True,True,3
+U022,8,EX308,Fly,0.3537,35.4,False,True,False,True,False,True,3
+U023,1,EX299,Chest Dip,0.3354,33.5,False,True,False,True,False,True,3
+U023,2,EX305,Chest Dip,0.3192,31.9,False,True,False,True,False,True,3
+U023,3,EX308,Fly,0.2936,29.4,False,True,True,True,True,True,5
+U023,4,EX523,Squat,0.2827,28.3,False,False,False,True,False,True,2
+U023,5,EX556,Inverse Leg Curl,0.2814,28.1,False,False,False,True,True,False,2
+U023,6,EX524,Step Down,0.2739,27.4,False,False,False,True,False,True,2
+U023,7,EX550,Hamstring Raise,0.2666,26.7,False,False,False,True,False,False,1
+U023,8,EX415,Step Down,0.2647,26.5,False,False,False,True,False,True,2
+U024,1,EX305,Chest Dip,0.4618,46.2,False,True,True,True,False,True,4
+U024,2,EX523,Squat,0.4188,41.9,False,False,True,True,False,True,3
+U024,3,EX556,Inverse Leg Curl,0.4166,41.7,False,False,True,True,True,False,3
+U024,4,EX524,Step Down,0.4057,40.6,False,False,True,True,False,True,3
+U024,5,EX415,Step Down,0.3921,39.2,False,False,True,True,False,True,3
+U024,6,EX590,Single Leg Calf Raise,0.3829,38.3,False,False,True,True,True,True,4
+U024,7,EX264,Chest Dip,0.3719,37.2,False,True,True,True,False,True,4
+U024,8,EX522,Single Leg Squat (leg wrapped),0.3523,35.2,False,False,False,True,False,True,2
+U025,1,EX523,Squat,0.4947,49.5,False,True,True,True,True,True,5
+U025,2,EX550,Hamstring Raise,0.4818,48.2,False,True,True,True,True,False,4
+U025,3,EX524,Step Down,0.4792,47.9,True,True,True,True,True,True,5
+U025,4,EX556,Inverse Leg Curl,0.4629,46.3,False,True,True,True,False,False,3
+U025,5,EX522,Single Leg Squat (leg wrapped),0.4216,42.2,False,True,False,True,True,True,4
+U025,6,EX299,Chest Dip,0.3755,37.5,False,False,True,True,True,True,4
+U025,7,EX415,Step Down,0.3658,36.6,False,False,True,True,True,True,4
+U025,8,EX519,Squat,0.3621,36.2,True,True,True,True,True,True,5
+U026,1,EX556,Inverse Leg Curl,0.3701,37.0,False,True,False,True,True,True,4
+U026,2,EX523,Squat,0.3531,35.3,False,True,False,True,False,False,2
+U026,3,EX550,Hamstring Raise,0.3445,34.5,False,True,False,True,False,True,3
+U026,4,EX524,Step Down,0.3421,34.2,False,True,False,True,False,False,2
+U026,5,EX557,Leg Curl,0.3407,34.1,True,True,True,True,True,True,5
+U026,6,EX522,Single Leg Squat (leg wrapped),0.3202,32.0,False,True,False,True,False,False,2
+U026,7,EX538,Seated Leg Curl,0.3159,31.6,False,True,True,True,True,True,5
+U026,8,EX537,Kneeling Leg Curl,0.3051,30.5,False,True,True,True,True,True,5
+U027,1,EX556,Inverse Leg Curl,0.399,39.9,True,True,False,True,True,True,4
+U027,2,EX550,Hamstring Raise,0.3937,39.4,False,True,False,True,False,True,3
+U027,3,EX522,Single Leg Squat (leg wrapped),0.3914,39.1,False,True,True,True,False,False,3
+U027,4,EX523,Squat,0.3793,37.9,False,True,False,True,False,False,2
+U027,5,EX524,Step Down,0.3675,36.7,False,True,False,True,False,False,2
+U027,6,EX557,Leg Curl,0.3599,36.0,False,True,False,True,True,True,4
+U027,7,EX525,Single Leg Squat,0.3532,35.3,False,True,True,True,False,False,3
+U027,8,EX526,Single Leg Split Squat,0.3471,34.7,False,True,True,True,False,False,3
+U028,1,EX522,Single Leg Squat (leg wrapped),0.4893,48.9,True,True,True,True,True,True,5
+U028,2,EX523,Squat,0.4775,47.8,False,True,False,True,True,True,4
+U028,3,EX550,Hamstring Raise,0.4684,46.8,False,True,False,True,True,False,3
+U028,4,EX524,Step Down,0.4626,46.3,False,True,False,True,True,True,4
+U028,5,EX525,Single Leg Squat,0.4469,44.7,True,True,True,True,True,True,5
+U028,6,EX556,Inverse Leg Curl,0.4451,44.5,False,True,False,True,False,False,2
+U028,7,EX526,Single Leg Split Squat,0.4392,43.9,True,True,True,True,True,True,5
+U028,8,EX557,Leg Curl,0.3946,39.5,False,True,False,True,False,False,2
+U029,1,EX523,Squat,0.4962,49.6,False,True,True,True,True,True,5
+U029,2,EX550,Hamstring Raise,0.4833,48.3,False,True,True,True,True,False,4
+U029,3,EX524,Step Down,0.4807,48.1,True,True,True,True,True,True,5
+U029,4,EX556,Inverse Leg Curl,0.4643,46.4,False,True,True,True,False,False,3
+U029,5,EX522,Single Leg Squat (leg wrapped),0.4229,42.3,False,True,False,True,True,True,4
+U029,6,EX558,Hanging Leg Curl,0.4002,40.0,False,True,True,True,False,False,3
+U029,7,EX559,Straight Hip Leg Curl,0.3936,39.4,False,True,True,True,False,False,3
+U029,8,EX557,Leg Curl,0.3854,38.5,False,True,False,True,False,False,2
+U030,1,EX556,Inverse Leg Curl,0.508,50.8,False,True,False,True,True,True,4
+U030,2,EX523,Squat,0.4851,48.5,False,True,False,True,False,False,2
+U030,3,EX524,Step Down,0.47,47.0,False,True,False,True,False,False,2
+U030,4,EX522,Single Leg Squat (leg wrapped),0.44,44.0,False,True,False,True,False,False,2
+U030,5,EX538,Seated Leg Curl,0.4259,42.6,True,True,True,True,True,True,5
+U030,6,EX537,Kneeling Leg Curl,0.4114,41.1,False,True,True,True,True,True,5
+U030,7,EX543,Seated Leg Curl,0.3752,37.5,True,True,True,True,True,True,5
+U030,8,EX542,Lying Leg Curl,0.3732,37.3,True,True,True,True,True,True,5
+U031,1,EX556,Inverse Leg Curl,0.4553,45.5,True,True,False,True,True,True,4
+U031,2,EX550,Hamstring Raise,0.4493,44.9,False,True,False,True,False,True,3
+U031,3,EX522,Single Leg Squat (leg wrapped),0.4466,44.7,False,True,True,True,False,False,3
+U031,4,EX523,Squat,0.4327,43.3,False,True,False,True,False,False,2
+U031,5,EX524,Step Down,0.4192,41.9,False,True,False,True,False,False,2
+U031,6,EX414,Single Leg Squat (leg wrapped),0.3428,34.3,False,False,True,True,False,False,2
+U031,7,EX227,Pull-up,0.3408,34.1,False,False,True,True,False,True,3
+U031,8,EX515,Single Leg Squat,0.3408,34.1,False,True,True,True,False,False,3
+U032,1,EX114,Triceps Dip,0.3794,37.9,False,True,False,True,False,True,3
+U032,2,EX121,Triceps Extension,0.3618,36.2,False,True,False,True,True,True,4
+U032,3,EX143,Arm Curl,0.36,36.0,False,True,False,True,True,False,3
+U032,4,EX122,Triceps Dip,0.3455,34.5,False,True,False,True,False,True,3
+U032,5,EX088,Lying Triceps Extension,0.3337,33.4,True,True,True,True,True,True,5
+U032,6,EX100,Lying Triceps Extension,0.3312,33.1,True,True,True,True,True,True,5
+U032,7,EX550,Hamstring Raise,0.3204,32.0,False,False,True,True,False,False,2
+U032,8,EX523,Squat,0.3182,31.8,False,False,True,True,False,True,3
+U033,1,EX121,Triceps Extension,0.3358,33.6,False,True,True,True,True,True,5
+U033,2,EX143,Arm Curl,0.3346,33.5,False,True,True,True,True,False,4
+U033,3,EX114,Triceps Dip,0.3318,33.2,False,True,False,True,False,True,3
+U033,4,EX104,Triceps Extension,0.3197,32.0,False,True,True,True,True,True,5
+U033,5,EX122,Triceps Dip,0.3168,31.7,False,True,False,True,False,True,3
+U033,6,EX139,Preacher Curl,0.3009,30.1,False,True,False,True,True,False,3
+U033,7,EX140,Preacher Curl: arms high,0.2902,29.0,False,True,False,True,True,False,3
+U033,8,EX108,Triceps Extension,0.2892,28.9,False,True,True,True,True,True,5
+U034,1,EX114,Triceps Dip,0.4747,47.5,True,True,True,True,True,True,5
+U034,2,EX122,Triceps Dip,0.4379,43.8,True,True,True,True,True,True,5
+U034,3,EX522,Single Leg Squat (leg wrapped),0.362,36.2,False,False,True,True,True,True,4
+U034,4,EX414,Single Leg Squat (leg wrapped),0.3513,35.1,False,False,True,True,True,True,4
+U034,5,EX550,Hamstring Raise,0.3465,34.6,False,False,False,True,True,False,2
+U034,6,EX523,Squat,0.342,34.2,False,False,False,True,True,True,3
+U034,7,EX120,Triceps Dip,0.3382,33.8,True,True,True,True,True,True,5
+U034,8,EX113,Triceps Dip,0.3339,33.4,True,True,True,True,True,True,5
+U035,1,EX114,Triceps Dip,0.3719,37.2,False,True,False,True,False,False,2
+U035,2,EX143,Arm Curl,0.3694,36.9,True,True,False,True,True,True,4
+U035,3,EX121,Triceps Extension,0.3524,35.2,False,True,False,True,True,False,3
+U035,4,EX122,Triceps Dip,0.3378,33.8,False,True,False,True,False,False,2
+U035,5,EX550,Hamstring Raise,0.3296,33.0,False,False,True,True,False,True,3
+U035,6,EX132,Preacher Curl,0.3272,32.7,True,True,True,True,True,True,5
+U035,7,EX556,Inverse Leg Curl,0.3271,32.7,False,False,True,True,True,True,4
+U035,8,EX138,Preacher Curl,0.3246,32.5,True,True,True,True,True,True,5
+U036,1,EX143,Arm Curl,0.3429,34.3,True,True,True,True,True,True,5
+U036,2,EX121,Triceps Extension,0.3276,32.8,False,True,True,True,True,False,4
+U036,3,EX114,Triceps Dip,0.3252,32.5,False,True,False,True,False,False,2
+U036,4,EX104,Triceps Extension,0.3112,31.1,False,True,True,True,True,False,4
+U036,5,EX122,Triceps Dip,0.3101,31.0,False,True,False,True,False,False,2
+U036,6,EX139,Preacher Curl,0.3095,31.0,False,True,False,True,True,True,4
+U036,7,EX140,Preacher Curl: arms high,0.2984,29.8,False,True,False,True,True,True,4
+U036,8,EX556,Inverse Leg Curl,0.2848,28.5,False,False,False,True,True,True,3
+U037,1,EX122,Triceps Dip,0.4722,47.2,True,True,True,True,True,True,5
+U037,2,EX522,Single Leg Squat (leg wrapped),0.4016,40.2,False,False,True,True,True,True,4
+U037,3,EX085,Triceps Dip,0.3983,39.8,True,True,True,True,True,True,5
+U037,4,EX414,Single Leg Squat (leg wrapped),0.3898,39.0,False,False,True,True,True,True,4
+U037,5,EX523,Squat,0.3845,38.4,False,False,False,True,True,True,3
+U037,6,EX139,Preacher Curl,0.3806,38.1,False,True,False,True,False,False,2
+U037,7,EX104,Triceps Extension,0.3795,38.0,False,True,False,True,False,True,3
+U037,8,EX105,Triceps Dip,0.373,37.3,True,True,True,True,True,True,5
+U038,1,EX523,Squat,0.3064,30.6,False,False,True,True,True,False,3
+U038,2,EX550,Hamstring Raise,0.3037,30.4,False,False,True,True,True,True,4
+U038,3,EX556,Inverse Leg Curl,0.302,30.2,False,False,True,True,False,True,3
+U038,4,EX524,Step Down,0.2968,29.7,False,False,True,True,True,False,3
+U038,5,EX415,Step Down,0.2869,28.7,False,False,True,True,True,False,3
+U038,6,EX079,Rear Delt Row,0.2797,28.0,False,True,True,True,True,True,5
+U038,7,EX299,Chest Dip,0.2756,27.6,False,False,True,True,True,False,3
+U038,8,EX080,Reverse Fly,0.2611,26.1,False,True,False,True,True,True,4
+U039,1,EX556,Inverse Leg Curl,0.3991,39.9,False,False,False,True,True,True,3
+U039,2,EX523,Squat,0.3753,37.5,False,False,False,True,False,False,1
+U039,3,EX524,Step Down,0.3636,36.4,False,False,False,True,False,False,1
+U039,4,EX415,Step Down,0.3514,35.1,False,False,False,True,False,False,1
+U039,5,EX056,Lateral Raise,0.348,34.8,False,True,True,True,True,True,5
+U039,6,EX590,Single Leg Calf Raise,0.3445,34.5,False,False,False,True,True,False,2
+U039,7,EX069,Lying Rear Lateral Raise,0.3439,34.4,False,True,True,True,True,True,5
+U039,8,EX522,Single Leg Squat (leg wrapped),0.3404,34.0,False,False,False,True,False,False,1
+U040,1,EX550,Hamstring Raise,0.3386,33.9,False,False,True,True,False,True,3
+U040,2,EX556,Inverse Leg Curl,0.3361,33.6,False,False,True,True,True,True,4
+U040,3,EX523,Squat,0.3157,31.6,False,False,True,True,False,False,2
+U040,4,EX079,Rear Delt Row,0.3108,31.1,False,True,True,True,False,True,4
+U040,5,EX299,Chest Dip,0.307,30.7,False,False,True,True,False,False,2
+U040,6,EX524,Step Down,0.3058,30.6,False,False,True,True,False,False,2
+U040,7,EX415,Step Down,0.2956,29.6,False,False,True,True,False,False,2
+U040,8,EX590,Single Leg Calf Raise,0.29,29.0,False,False,True,True,True,False,3
+U041,1,EX522,Single Leg Squat (leg wrapped),0.3055,30.5,False,False,True,True,True,True,4
+U041,2,EX414,Single Leg Squat (leg wrapped),0.2965,29.6,False,False,True,True,True,True,4
+U041,3,EX523,Squat,0.2917,29.2,False,False,False,True,True,True,3
+U041,4,EX524,Step Down,0.2826,28.3,False,False,False,True,True,True,3
+U041,5,EX550,Hamstring Raise,0.2743,27.4,False,False,False,True,True,False,2
+U041,6,EX415,Step Down,0.2731,27.3,False,False,False,True,True,True,3
+U041,7,EX556,Inverse Leg Curl,0.2686,26.9,False,False,False,True,False,False,1
+U041,8,EX299,Chest Dip,0.2636,26.4,False,False,False,True,True,True,3
+U042,1,EX550,Hamstring Raise,0.3161,31.6,False,False,False,True,False,True,2
+U042,2,EX080,Reverse Fly,0.3124,31.2,False,True,True,True,False,True,4
+U042,3,EX044,Front Raise,0.3117,31.2,False,True,True,True,True,False,4
+U042,4,EX556,Inverse Leg Curl,0.3104,31.0,False,False,False,True,True,True,3
+U042,5,EX017,Neck Retraction,0.3086,30.9,False,False,True,True,True,True,4
+U042,6,EX523,Squat,0.2898,29.0,False,False,False,True,False,False,1
+U042,7,EX557,Leg Curl,0.2883,28.8,False,False,True,True,True,True,4
+U042,8,EX079,Rear Delt Row,0.288,28.8,False,True,False,True,False,True,3
+U043,1,EX590,Single Leg Calf Raise,0.515,51.5,True,True,True,True,True,True,5
+U043,2,EX523,Squat,0.4145,41.5,False,False,True,True,False,True,3
+U043,3,EX556,Inverse Leg Curl,0.4124,41.2,False,False,True,True,True,False,3
+U043,4,EX524,Step Down,0.4016,40.2,False,False,True,True,False,True,3
+U043,5,EX570,45° Calf Press,0.3934,39.3,True,True,True,True,True,True,5
+U043,6,EX415,Step Down,0.3881,38.8,False,False,True,True,False,True,3
+U043,7,EX602,45° Reverse Calf Raise,0.3799,38.0,False,True,True,True,True,False,4
+U043,8,EX601,45° Reverse Calf Press,0.3779,37.8,False,True,True,True,True,False,4
+U044,1,EX590,Single Leg Calf Raise,0.3884,38.8,True,True,False,True,True,True,4
+U044,2,EX522,Single Leg Squat (leg wrapped),0.3155,31.5,False,False,True,True,False,True,3
+U044,3,EX591,Forward Angled Single Leg Calf Raise,0.3084,30.8,True,True,False,True,True,True,4
+U044,4,EX414,Single Leg Squat (leg wrapped),0.3062,30.6,False,False,True,True,False,True,3
+U044,5,EX550,Hamstring Raise,0.302,30.2,False,False,False,True,False,False,1
+U044,6,EX523,Squat,0.2963,29.6,False,False,False,True,False,True,2
+U044,7,EX556,Inverse Leg Curl,0.295,29.5,False,False,False,True,True,False,2
+U044,8,EX299,Chest Dip,0.2905,29.0,False,False,False,True,False,True,2
+U045,1,EX590,Single Leg Calf Raise,0.3594,35.9,False,True,False,True,True,True,4
+U045,2,EX573,Standing Calf Raise,0.2987,29.9,False,True,True,True,True,True,5
+U045,3,EX572,Seated Calf Press,0.2977,29.8,False,True,True,True,True,True,5
+U045,4,EX571,Calf Extension,0.2975,29.7,False,True,True,True,True,True,5
+U045,5,EX603,Reverse Calf Raise,0.2914,29.1,False,True,True,True,True,False,4
+U045,6,EX604,Reverse Calf Extension,0.2881,28.8,False,True,True,True,True,False,4
+U045,7,EX586,Standing Calf Raise,0.2836,28.4,False,True,True,True,True,True,5
+U045,8,EX523,Squat,0.2811,28.1,False,False,False,True,False,True,2
+U046,1,EX590,Single Leg Calf Raise,0.4831,48.3,True,True,False,True,True,True,4
+U046,2,EX522,Single Leg Squat (leg wrapped),0.3992,39.9,False,False,True,True,False,True,3
+U046,3,EX414,Single Leg Squat (leg wrapped),0.3874,38.7,False,False,True,True,False,True,3
+U046,4,EX523,Squat,0.3803,38.0,False,False,False,True,False,True,2
+U046,5,EX556,Inverse Leg Curl,0.3784,37.8,False,False,False,True,True,False,2
+U046,6,EX524,Step Down,0.3684,36.8,False,False,False,True,False,True,2
+U046,7,EX573,Standing Calf Raise,0.366,36.6,False,True,False,True,True,True,4
+U046,8,EX572,Seated Calf Press,0.3649,36.5,False,True,False,True,True,True,4
+U047,1,EX550,Hamstring Raise,0.3294,32.9,False,False,True,True,False,True,3
+U047,2,EX556,Inverse Leg Curl,0.3269,32.7,False,False,True,True,True,True,4
+U047,3,EX523,Squat,0.3071,30.7,False,False,True,True,False,False,2
+U047,4,EX299,Chest Dip,0.2986,29.9,False,False,True,True,False,False,2
+U047,5,EX524,Step Down,0.2975,29.8,False,False,True,True,False,False,2
+U047,6,EX415,Step Down,0.2876,28.8,False,False,True,True,False,False,2
+U047,7,EX157,One Hand,0.2864,28.6,True,True,False,True,True,True,4
+U047,8,EX144,Reverse Curl,0.2822,28.2,False,True,False,True,True,True,4
+U048,1,EX152,Grip,0.3982,39.8,False,True,True,True,True,True,5
+U048,2,EX153,Wrist Curl,0.3936,39.4,True,True,True,True,True,True,5
+U048,3,EX556,Inverse Leg Curl,0.3844,38.4,False,False,False,True,True,True,3
+U048,4,EX161,Reverse Wrist Curl,0.3706,37.1,True,True,True,True,True,True,5
+U048,5,EX148,Reverse Curl,0.3685,36.9,False,True,True,True,True,True,5
+U048,6,EX523,Squat,0.3616,36.2,False,False,False,True,False,False,1
+U048,7,EX154,Grip,0.3588,35.9,True,True,True,True,True,True,5
+U048,8,EX155,Wrist Curl,0.3544,35.4,True,True,True,True,True,True,5
+U049,1,EX017,Neck Retraction,0.4028,40.3,True,True,True,True,True,True,5
+U049,2,EX010,Neck Flexion,0.3584,35.8,True,True,True,True,True,True,5
+U049,3,EX002,Neck Flexion,0.3428,34.3,True,True,True,True,True,True,5
+U049,4,EX020,Neck Extension,0.334,33.4,False,True,True,True,True,True,5
+U049,5,EX013,Neck Extension,0.3182,31.8,False,True,True,True,True,True,5
+U049,6,EX006,Neck Flexion,0.3174,31.7,True,True,True,True,True,True,5
+U049,7,EX004,Neck Flexion,0.3127,31.3,True,True,True,True,True,True,5
+U049,8,EX011,Lateral Neck Flexion,0.2993,29.9,False,True,True,True,True,True,5
+U050,1,EX017,Neck Retraction,0.3858,38.6,True,True,False,True,True,True,4
+U050,2,EX010,Neck Flexion,0.3386,33.9,False,True,False,True,True,True,4
+U050,3,EX002,Neck Flexion,0.3224,32.2,False,True,False,True,True,True,4
+U050,4,EX020,Neck Extension,0.3156,31.6,False,True,False,True,True,True,4
+U050,5,EX556,Inverse Leg Curl,0.3056,30.6,False,False,True,True,True,True,4
+U050,6,EX013,Neck Extension,0.2994,29.9,False,True,False,True,True,True,4
+U050,7,EX006,Neck Flexion,0.2966,29.7,False,True,False,True,True,True,4
+U050,8,EX004,Neck Flexion,0.2916,29.2,True,True,False,True,True,True,4

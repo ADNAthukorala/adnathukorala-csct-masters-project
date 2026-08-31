@@ -1,0 +1,51 @@
+user_id,preferred_target_muscle_group,experience_level,available_equipments,preferred_mechanics,preferred_force_type
+U001,Hips,Advanced,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Push
+U002,Hips,Intermediate,"Body Weight, Barbell, Dumbbell, Weighted, Resistance Band, Self-assisted",Compound,Push
+U003,Hips,Beginner,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Push
+U004,Hips,Advanced,"Body Weight, Dumbbell, Resistance Band, Suspension Straps, Self-assisted",Compound,Push
+U005,Hips,Intermediate,"Body Weight, Resistance Band, Suspension Straps, Self-assisted",Isolated,Pull
+U006,Hips,Beginner,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U007,Hips,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Push
+U008,Hips,Intermediate,"Body Weight, Barbell, Dumbbell, Weighted, Resistance Band, Self-assisted",Isolated,Pull
+U009,Hips,Advanced,"Body Weight, Resistance Band, Suspension Straps, Self-assisted",Isolated,Pull
+U010,Back,Intermediate,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Pull
+U011,Back,Beginner,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U012,Back,Advanced,"Body Weight, Dumbbell, Resistance Band, Suspension Straps, Self-assisted",Compound,Pull
+U013,Back,Advanced,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Pull
+U014,Back,Intermediate,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U015,Back,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Compound,Pull
+U016,Back,Advanced,"Body Weight, Resistance Band, Suspension Straps, Self-assisted",Compound,Pull
+U017,Back,Beginner,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Pull
+U018,Chest,Intermediate,"Body Weight, Barbell, Dumbbell, Weighted, Resistance Band, Self-assisted",Compound,Push
+U019,Chest,Advanced,"Body Weight, Dumbbell, Resistance Band, Suspension Straps, Self-assisted",Compound,Push
+U020,Chest,Intermediate,"Body Weight, Dumbbell, Resistance Band, Suspension Straps, Self-assisted",Compound,Push
+U021,Chest,Beginner,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Push
+U022,Chest,Advanced,"Body Weight, Resistance Band, Suspension Straps, Self-assisted",Compound,Push
+U023,Chest,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Push
+U024,Chest,Intermediate,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Push
+U025,Thighs,Intermediate,"Body Weight, Barbell, Dumbbell, Weighted, Resistance Band, Self-assisted",Compound,Push
+U026,Thighs,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Pull
+U027,Thighs,Advanced,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U028,Thighs,Advanced,"Body Weight, Resistance Band, Suspension Straps, Self-assisted",Compound,Push
+U029,Thighs,Intermediate,"Body Weight, Dumbbell, Resistance Band, Suspension Straps, Self-assisted",Compound,Push
+U030,Thighs,Beginner,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Pull
+U031,Thighs,Advanced,"Body Weight, Barbell, Dumbbell, Weighted, Resistance Band, Self-assisted",Isolated,Pull
+U032,Upper Arms,Intermediate,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Push
+U033,Upper Arms,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Push
+U034,Upper Arms,Advanced,"Body Weight, Barbell, Dumbbell, Weighted, Resistance Band, Self-assisted",Compound,Push
+U035,Upper Arms,Intermediate,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U036,Upper Arms,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Pull
+U037,Upper Arms,Advanced,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Compound,Push
+U038,Shoulder,Intermediate,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Compound,Pull
+U039,Shoulder,Beginner,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Pull
+U040,Shoulder,Intermediate,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U041,Shoulder,Advanced,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Compound,Push
+U042,Shoulder,Beginner,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U043,Calves,Intermediate,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Push
+U044,Calves,Advanced,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Push
+U045,Calves,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Push
+U046,Calves,Advanced,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Push
+U047,Forearm,Intermediate,"Body Weight, Dumbbell, Barbell, Resistance Band, Suspension Straps, Cable, Sled, Weighted, Self-assisted",Isolated,Pull
+U048,Forearm,Beginner,"Body Weight, Cable, Lever (selectorized), Lever (plate loaded), Assisted, Smith, Self-assisted",Isolated,Pull
+U049,Neck,Beginner,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Pull
+U050,Neck,Intermediate,"Assisted, Barbell, Body Weight, Cable, Dumbbell, Lever (plate loaded), Lever (selectorized), Resistance Band, Self-assisted, Sled, Smith, Suspension Straps, Weighted",Isolated,Pull

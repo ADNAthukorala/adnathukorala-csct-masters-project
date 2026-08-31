@@ -1,0 +1,166 @@
+muscle_group,experience_level,equipment_profile,mechanics,force,n_relevant
+Back,Advanced,Home - Minimal Setup,Compound,Pull,21
+Back,Advanced,Home - Dumbbell Setup,Compound,Pull,23
+Back,Advanced,Garage - Free Weights,Compound,Pull,23
+Back,Advanced,Functional - Athletic Performance,Compound,Pull,44
+Back,Advanced,Functional - Athletic Performance,Isolated,Pull,18
+Back,Advanced,Machine & Cable Gym,Compound,Pull,52
+Back,Advanced,Machine & Cable Gym,Isolated,Pull,16
+Back,Advanced,Full Commercial Gym,Compound,Pull,70
+Back,Advanced,Full Commercial Gym,Isolated,Pull,27
+Back,Beginner,Functional - Athletic Performance,Compound,Pull,10
+Back,Beginner,Functional - Athletic Performance,Isolated,Pull,17
+Back,Beginner,Machine & Cable Gym,Compound,Pull,22
+Back,Beginner,Machine & Cable Gym,Isolated,Pull,15
+Back,Beginner,Full Commercial Gym,Compound,Pull,24
+Back,Beginner,Full Commercial Gym,Isolated,Pull,26
+Back,Intermediate,Functional - Athletic Performance,Compound,Pull,22
+Back,Intermediate,Functional - Athletic Performance,Isolated,Pull,18
+Back,Intermediate,Machine & Cable Gym,Compound,Pull,34
+Back,Intermediate,Machine & Cable Gym,Isolated,Pull,16
+Back,Intermediate,Full Commercial Gym,Compound,Pull,43
+Back,Intermediate,Full Commercial Gym,Isolated,Pull,27
+Calves,Advanced,Functional - Athletic Performance,Isolated,Pull,13
+Calves,Advanced,Functional - Athletic Performance,Isolated,Push,17
+Calves,Advanced,Machine & Cable Gym,Isolated,Pull,11
+Calves,Advanced,Machine & Cable Gym,Isolated,Push,19
+Calves,Advanced,Full Commercial Gym,Isolated,Pull,20
+Calves,Advanced,Full Commercial Gym,Isolated,Push,31
+Calves,Beginner,Machine & Cable Gym,Isolated,Push,12
+Calves,Beginner,Full Commercial Gym,Isolated,Pull,10
+Calves,Beginner,Full Commercial Gym,Isolated,Push,18
+Calves,Intermediate,Functional - Athletic Performance,Isolated,Pull,13
+Calves,Intermediate,Functional - Athletic Performance,Isolated,Push,17
+Calves,Intermediate,Machine & Cable Gym,Isolated,Pull,11
+Calves,Intermediate,Machine & Cable Gym,Isolated,Push,19
+Calves,Intermediate,Full Commercial Gym,Isolated,Pull,20
+Calves,Intermediate,Full Commercial Gym,Isolated,Push,31
+Chest,Advanced,Home - Minimal Setup,Compound,Push,13
+Chest,Advanced,Home - Dumbbell Setup,Compound,Push,16
+Chest,Advanced,Garage - Free Weights,Compound,Push,20
+Chest,Advanced,Functional - Athletic Performance,Compound,Push,29
+Chest,Advanced,Functional - Athletic Performance,Isolated,Push,14
+Chest,Advanced,Machine & Cable Gym,Compound,Push,36
+Chest,Advanced,Machine & Cable Gym,Isolated,Push,15
+Chest,Advanced,Full Commercial Gym,Compound,Push,49
+Chest,Advanced,Full Commercial Gym,Isolated,Push,21
+Chest,Beginner,Functional - Athletic Performance,Isolated,Push,13
+Chest,Beginner,Machine & Cable Gym,Isolated,Push,14
+Chest,Beginner,Full Commercial Gym,Isolated,Push,20
+Chest,Intermediate,Home - Minimal Setup,Compound,Push,11
+Chest,Intermediate,Home - Dumbbell Setup,Compound,Push,14
+Chest,Intermediate,Garage - Free Weights,Compound,Push,17
+Chest,Intermediate,Functional - Athletic Performance,Compound,Push,26
+Chest,Intermediate,Functional - Athletic Performance,Isolated,Push,14
+Chest,Intermediate,Machine & Cable Gym,Compound,Push,34
+Chest,Intermediate,Machine & Cable Gym,Isolated,Push,15
+Chest,Intermediate,Full Commercial Gym,Compound,Push,46
+Chest,Intermediate,Full Commercial Gym,Isolated,Push,21
+Forearm,Advanced,Functional - Athletic Performance,Isolated,Pull,13
+Forearm,Advanced,Machine & Cable Gym,Isolated,Pull,12
+Forearm,Advanced,Full Commercial Gym,Isolated,Pull,21
+Forearm,Beginner,Functional - Athletic Performance,Isolated,Pull,13
+Forearm,Beginner,Machine & Cable Gym,Isolated,Pull,12
+Forearm,Beginner,Full Commercial Gym,Isolated,Pull,21
+Forearm,Intermediate,Functional - Athletic Performance,Isolated,Pull,13
+Forearm,Intermediate,Machine & Cable Gym,Isolated,Pull,12
+Forearm,Intermediate,Full Commercial Gym,Isolated,Pull,21
+Hips,Advanced,Home - Minimal Setup,Compound,Push,12
+Hips,Advanced,Home - Minimal Setup,Isolated,Pull,20
+Hips,Advanced,Home - Dumbbell Setup,Compound,Push,19
+Hips,Advanced,Home - Dumbbell Setup,Isolated,Pull,20
+Hips,Advanced,Garage - Free Weights,Compound,Push,28
+Hips,Advanced,Garage - Free Weights,Isolated,Pull,32
+Hips,Advanced,Functional - Athletic Performance,Compound,Push,45
+Hips,Advanced,Functional - Athletic Performance,Isolated,Pull,43
+Hips,Advanced,Machine & Cable Gym,Compound,Push,35
+Hips,Advanced,Machine & Cable Gym,Isolated,Pull,30
+Hips,Advanced,Machine & Cable Gym,Isolated,Push,12
+Hips,Advanced,Full Commercial Gym,Compound,Push,64
+Hips,Advanced,Full Commercial Gym,Isolated,Pull,46
+Hips,Advanced,Full Commercial Gym,Isolated,Push,17
+Hips,Beginner,Functional - Athletic Performance,Isolated,Pull,10
+Hips,Beginner,Machine & Cable Gym,Isolated,Push,11
+Hips,Beginner,Full Commercial Gym,Isolated,Pull,12
+Hips,Beginner,Full Commercial Gym,Isolated,Push,15
+Hips,Intermediate,Home - Minimal Setup,Isolated,Pull,12
+Hips,Intermediate,Home - Dumbbell Setup,Compound,Push,11
+Hips,Intermediate,Home - Dumbbell Setup,Isolated,Pull,12
+Hips,Intermediate,Garage - Free Weights,Compound,Push,15
+Hips,Intermediate,Garage - Free Weights,Isolated,Pull,17
+Hips,Intermediate,Functional - Athletic Performance,Compound,Push,27
+Hips,Intermediate,Functional - Athletic Performance,Isolated,Pull,27
+Hips,Intermediate,Machine & Cable Gym,Compound,Push,23
+Hips,Intermediate,Machine & Cable Gym,Isolated,Pull,20
+Hips,Intermediate,Machine & Cable Gym,Isolated,Push,12
+Hips,Intermediate,Full Commercial Gym,Compound,Push,39
+Hips,Intermediate,Full Commercial Gym,Isolated,Pull,29
+Hips,Intermediate,Full Commercial Gym,Isolated,Push,17
+Neck,Advanced,Functional - Athletic Performance,Isolated,Pull,13
+Neck,Advanced,Machine & Cable Gym,Isolated,Pull,11
+Neck,Advanced,Full Commercial Gym,Isolated,Pull,19
+Neck,Beginner,Functional - Athletic Performance,Isolated,Pull,10
+Neck,Beginner,Full Commercial Gym,Isolated,Pull,16
+Neck,Intermediate,Functional - Athletic Performance,Isolated,Pull,13
+Neck,Intermediate,Machine & Cable Gym,Isolated,Pull,11
+Neck,Intermediate,Full Commercial Gym,Isolated,Pull,19
+Shoulder,Advanced,Functional - Athletic Performance,Compound,Pull,14
+Shoulder,Advanced,Functional - Athletic Performance,Compound,Push,10
+Shoulder,Advanced,Functional - Athletic Performance,Isolated,Pull,14
+Shoulder,Advanced,Machine & Cable Gym,Compound,Pull,12
+Shoulder,Advanced,Machine & Cable Gym,Compound,Push,11
+Shoulder,Advanced,Machine & Cable Gym,Isolated,Pull,13
+Shoulder,Advanced,Full Commercial Gym,Compound,Pull,19
+Shoulder,Advanced,Full Commercial Gym,Compound,Push,17
+Shoulder,Advanced,Full Commercial Gym,Isolated,Pull,21
+Shoulder,Beginner,Functional - Athletic Performance,Isolated,Pull,11
+Shoulder,Beginner,Machine & Cable Gym,Isolated,Pull,12
+Shoulder,Beginner,Full Commercial Gym,Isolated,Pull,18
+Shoulder,Intermediate,Functional - Athletic Performance,Compound,Pull,12
+Shoulder,Intermediate,Functional - Athletic Performance,Isolated,Pull,14
+Shoulder,Intermediate,Machine & Cable Gym,Compound,Pull,10
+Shoulder,Intermediate,Machine & Cable Gym,Isolated,Pull,13
+Shoulder,Intermediate,Full Commercial Gym,Compound,Pull,17
+Shoulder,Intermediate,Full Commercial Gym,Compound,Push,12
+Shoulder,Intermediate,Full Commercial Gym,Isolated,Pull,21
+Thighs,Advanced,Home - Minimal Setup,Compound,Push,14
+Thighs,Advanced,Home - Dumbbell Setup,Compound,Push,21
+Thighs,Advanced,Home - Dumbbell Setup,Isolated,Pull,10
+Thighs,Advanced,Garage - Free Weights,Compound,Push,29
+Thighs,Advanced,Garage - Free Weights,Isolated,Pull,12
+Thighs,Advanced,Functional - Athletic Performance,Compound,Push,42
+Thighs,Advanced,Functional - Athletic Performance,Isolated,Pull,18
+Thighs,Advanced,Machine & Cable Gym,Compound,Push,31
+Thighs,Advanced,Machine & Cable Gym,Isolated,Pull,22
+Thighs,Advanced,Full Commercial Gym,Compound,Push,56
+Thighs,Advanced,Full Commercial Gym,Isolated,Pull,31
+Thighs,Beginner,Machine & Cable Gym,Isolated,Pull,12
+Thighs,Beginner,Full Commercial Gym,Isolated,Pull,14
+Thighs,Intermediate,Home - Dumbbell Setup,Compound,Push,14
+Thighs,Intermediate,Garage - Free Weights,Compound,Push,19
+Thighs,Intermediate,Functional - Athletic Performance,Compound,Push,30
+Thighs,Intermediate,Functional - Athletic Performance,Isolated,Pull,13
+Thighs,Intermediate,Machine & Cable Gym,Compound,Push,26
+Thighs,Intermediate,Machine & Cable Gym,Isolated,Pull,19
+Thighs,Intermediate,Full Commercial Gym,Compound,Push,43
+Thighs,Intermediate,Full Commercial Gym,Isolated,Pull,26
+Upper Arms,Advanced,Garage - Free Weights,Compound,Push,11
+Upper Arms,Advanced,Functional - Athletic Performance,Compound,Push,12
+Upper Arms,Advanced,Functional - Athletic Performance,Isolated,Pull,15
+Upper Arms,Advanced,Functional - Athletic Performance,Isolated,Push,16
+Upper Arms,Advanced,Machine & Cable Gym,Compound,Push,15
+Upper Arms,Advanced,Machine & Cable Gym,Isolated,Pull,12
+Upper Arms,Advanced,Machine & Cable Gym,Isolated,Push,10
+Upper Arms,Advanced,Full Commercial Gym,Compound,Push,19
+Upper Arms,Advanced,Full Commercial Gym,Isolated,Pull,20
+Upper Arms,Advanced,Full Commercial Gym,Isolated,Push,19
+Upper Arms,Beginner,Functional - Athletic Performance,Isolated,Push,12
+Upper Arms,Beginner,Full Commercial Gym,Isolated,Pull,10
+Upper Arms,Beginner,Full Commercial Gym,Isolated,Push,14
+Upper Arms,Intermediate,Functional - Athletic Performance,Isolated,Pull,15
+Upper Arms,Intermediate,Functional - Athletic Performance,Isolated,Push,16
+Upper Arms,Intermediate,Machine & Cable Gym,Isolated,Pull,12
+Upper Arms,Intermediate,Machine & Cable Gym,Isolated,Push,10
+Upper Arms,Intermediate,Full Commercial Gym,Compound,Push,10
+Upper Arms,Intermediate,Full Commercial Gym,Isolated,Pull,20
+Upper Arms,Intermediate,Full Commercial Gym,Isolated,Push,19

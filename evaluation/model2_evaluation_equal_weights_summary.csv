@@ -1,0 +1,11 @@
+metric,score,score_percent
+Precision@8,0.0825,8.25
+Recall@8,0.066,6.6
+F1@8,0.0733,7.33
+NDCG@8,0.0671,6.71
+Muscle group match,0.3275,32.75
+Level match,0.5225,52.25
+Equipment match,1.0,100.0
+Mechanics match,0.53,53.0
+Force match,0.64,64.0
+Overall feature match,0.604,60.4

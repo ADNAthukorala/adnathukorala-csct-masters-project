@@ -1,0 +1,401 @@
+user_id,rank,exercise_id,exercise_name,similarity_score,in_ground_truth,muscle_group_match,level_match,equipment_match,mechanics_match,force_match,features_matched_out_of_5
+U001,1,EX340,Single Leg Split Squat,0.5219,False,True,True,True,False,True,4
+U001,2,EX341,Single Leg Split Squat: Single Leg Squat,0.5219,False,True,True,True,False,True,4
+U001,3,EX343,Squat,0.5219,False,True,True,True,False,True,4
+U001,4,EX344,Squat: Front Squat,0.5219,False,True,True,True,False,True,4
+U001,5,EX345,Squat: Full Squat,0.5219,False,True,True,True,False,True,4
+U001,6,EX346,Squat: Safety Squat,0.5219,False,True,True,True,False,True,4
+U001,7,EX352,Squat,0.5219,False,True,True,True,False,True,4
+U001,8,EX357,Stiff-leg Deadlift: Straight-back,0.5219,False,True,True,True,True,False,4
+U002,1,EX338,Lunge,0.7289,False,True,True,True,True,True,5
+U002,2,EX339,Lunge: Rear Lunge,0.7289,False,True,True,True,True,True,5
+U002,3,EX342,Single Leg Split Squat: Split Squat,0.7289,True,True,True,True,True,True,5
+U002,4,EX347,Step-up,0.7289,False,True,True,True,True,True,5
+U002,5,EX358,Lunge,0.7289,True,True,True,True,True,True,5
+U002,6,EX359,Lunge: Rear Lunge,0.7289,True,True,True,True,True,True,5
+U002,7,EX360,Split Squat,0.7289,True,True,True,True,True,True,5
+U002,8,EX363,Step-up,0.7289,False,True,True,True,True,True,5
+U003,1,EX353,Standing Hip Extension,0.6969,True,True,True,True,True,True,5
+U003,2,EX354,Standing Hip Extension: Bent-over,0.6969,True,True,True,True,True,True,5
+U003,3,EX371,Lying Hip Extension,0.6969,True,True,True,True,True,True,5
+U003,4,EX378,Hip Extensions,0.6969,True,True,True,True,True,True,5
+U003,5,EX379,Hip Extensions: Bent-over,0.6969,True,True,True,True,True,True,5
+U003,6,EX380,Hip Extensions: Lying,0.6969,True,True,True,True,True,True,5
+U003,7,EX381,Hip Extensions: Standing alternative machine,0.6969,True,True,True,True,True,True,5
+U003,8,EX419,Hip Abduction,0.6969,True,True,True,True,True,True,5
+U004,1,EX361,Squat,0.7656,True,True,True,True,True,True,5
+U004,2,EX362,Squat: Front Squat,0.7656,True,True,True,True,True,True,5
+U004,3,EX407,Single Leg Squat,0.7656,True,True,True,True,True,True,5
+U004,4,EX409,Split Squat: Single Leg Split Squat,0.7656,True,True,True,True,True,True,5
+U004,5,EX411,Squat,0.7656,True,True,True,True,True,True,5
+U004,6,EX414,Single Leg Squat (leg wrapped),0.7656,True,True,True,True,True,True,5
+U004,7,EX417,Single Leg Squat,0.7656,True,True,True,True,True,True,5
+U004,8,EX418,Single Leg Split Squat,0.7656,True,True,True,True,True,True,5
+U005,1,EX451,Leg Raises,0.8086,True,True,True,True,True,True,5
+U005,2,EX453,Leg Raises: Incline Leg Raise arms on pads,0.8086,True,True,True,True,True,True,5
+U005,3,EX456,Leg Raises: Lying Straight Leg Raise Alternating,0.8086,True,True,True,True,True,True,5
+U005,4,EX459,Jack-knife on Ball,0.8086,True,True,True,True,True,True,5
+U005,5,EX460,Roman Chair Sit-up,0.8086,True,True,True,True,True,True,5
+U005,6,EX461,Scissor Kick,0.8086,True,True,True,True,True,True,5
+U005,7,EX462,Wheel,0.8086,True,True,True,True,True,True,5
+U005,8,EX466,Discs,0.8086,True,True,True,True,True,True,5
+U006,1,EX420,Seated Hip Internal Rotation,0.6439,True,True,True,True,True,True,5
+U006,2,EX426,Twist,0.6439,True,True,True,True,True,True,5
+U006,3,EX428,Side Bend,0.6439,True,True,True,True,True,True,5
+U006,4,EX430,Lying Leg Raise,0.6439,True,True,True,True,True,True,5
+U006,5,EX431,Lying Leg Raise: on bench,0.6439,True,True,True,True,True,True,5
+U006,6,EX433,Standing Leg Raise,0.6439,True,True,True,True,True,True,5
+U006,7,EX445,Lying Leg Raise,0.6439,True,True,True,True,True,True,5
+U006,8,EX447,Seated Leg Raise,0.6439,True,True,True,True,True,True,5
+U007,1,EX353,Standing Hip Extension,0.5664,True,True,True,True,True,True,5
+U007,2,EX354,Standing Hip Extension: Bent-over,0.5664,True,True,True,True,True,True,5
+U007,3,EX371,Lying Hip Extension,0.5664,True,True,True,True,True,True,5
+U007,4,EX378,Hip Extensions,0.5664,True,True,True,True,True,True,5
+U007,5,EX379,Hip Extensions: Bent-over,0.5664,True,True,True,True,True,True,5
+U007,6,EX380,Hip Extensions: Lying,0.5664,True,True,True,True,True,True,5
+U007,7,EX381,Hip Extensions: Standing alternative machine,0.5664,True,True,True,True,True,True,5
+U007,8,EX416,Hip Bridge,0.5664,True,True,True,True,True,True,5
+U008,1,EX334,Bent Knee Good-morning,0.7289,True,True,True,True,True,True,5
+U008,2,EX438,Decline Sit-up,0.7289,False,True,True,True,True,True,5
+U008,3,EX441,Incline Leg Raise,0.7289,True,True,True,True,True,True,5
+U008,4,EX442,Incline Leg Raise: arms on pads,0.7289,True,True,True,True,True,True,5
+U008,5,EX446,Roman Chair Sit-up,0.7289,False,True,True,True,True,True,5
+U008,6,EX451,Leg Raises,0.7289,True,True,True,True,True,True,5
+U008,7,EX453,Leg Raises: Incline Leg Raise arms on pads,0.7289,True,True,True,True,True,True,5
+U008,8,EX456,Leg Raises: Lying Straight Leg Raise Alternating,0.7289,True,True,True,True,True,True,5
+U009,1,EX410,Single Leg Stiff Leg Deadlift,0.8086,True,True,True,True,True,True,5
+U009,2,EX452,Leg Raises: Hanging Leg Raise with ab straps Straight Leg,0.8086,True,True,True,True,True,True,5
+U009,3,EX454,Leg Raises: Incline Straight Leg Raise arms on pads,0.8086,True,True,True,True,True,True,5
+U009,4,EX458,Leg Raises: Vertical Leg Raise on parallel bars Straight Leg,0.8086,True,True,True,True,True,True,5
+U009,5,EX463,Wheel: Jack-Knife,0.8086,True,True,True,True,True,True,5
+U009,6,EX464,Wheel: Rollout,0.8086,True,True,True,True,True,True,5
+U009,7,EX465,Wheel: Pike,0.8086,True,True,True,True,True,True,5
+U009,8,EX467,Discs: Pike,0.8086,True,True,True,True,True,True,5
+U010,1,EX206,Bent-over Pullover,0.6969,True,True,True,True,True,True,5
+U010,2,EX169,One Arm Bent-over Row,0.6423,False,True,True,True,False,True,4
+U010,3,EX170,One Arm Straight Back Seated High Row,0.6423,False,True,True,True,False,True,4
+U010,4,EX177,Incline Row,0.6423,False,True,True,True,False,True,4
+U010,5,EX178,Incline Row: Close Grip,0.6423,False,True,True,True,False,True,4
+U010,6,EX185,T-bar Row,0.6423,False,True,True,True,False,True,4
+U010,7,EX186,T-bar Row: Close grip,0.6423,False,True,True,True,False,True,4
+U010,8,EX189,Seated Row (no chest pad),0.6423,False,True,True,True,False,True,4
+U011,1,EX205,Pullover,0.6439,True,True,True,True,True,True,5
+U011,2,EX240,Shrug,0.6439,False,True,True,True,True,True,5
+U011,3,EX241,Trap Bar Shrug,0.6439,True,True,True,True,True,True,5
+U011,4,EX242,Shrug,0.6439,True,True,True,True,True,True,5
+U011,5,EX243,Shrug with Stirrups,0.6439,True,True,True,True,True,True,5
+U011,6,EX244,Shrug,0.6439,False,True,True,True,True,True,5
+U011,7,EX248,Gripless Shrug,0.6439,True,True,True,True,True,True,5
+U011,8,EX250,Inverted Shrug,0.6439,True,True,True,True,True,True,5
+U012,1,EX195,Inverted Row: Feet Elevated,0.7656,True,True,True,True,True,True,5
+U012,2,EX199,Inverted Row: One Arm,0.7656,True,True,True,True,True,True,5
+U012,3,EX225,Archer Pull-up,0.7656,False,True,True,True,True,True,5
+U012,4,EX226,Chin-up,0.7656,False,True,True,True,True,True,5
+U012,5,EX227,Pull-up,0.7656,True,True,True,True,True,True,5
+U012,6,EX228,Pull-up: Parallel Grip,0.7656,True,True,True,True,True,True,5
+U012,7,EX229,Archer Pull-up,0.7656,True,True,True,True,True,True,5
+U012,8,EX230,Chin-up,0.7656,True,True,True,True,True,True,5
+U013,1,EX195,Inverted Row: Feet Elevated,0.6423,False,True,True,True,False,True,4
+U013,2,EX202,Pull-up (open-centered bar),0.6423,False,True,True,True,False,True,4
+U013,3,EX203,Pull-up (open-centered bar): Standing,0.6423,False,True,True,True,False,True,4
+U013,4,EX204,Parallel Close Grip Pull-up,0.6423,False,True,True,True,False,True,4
+U013,5,EX210,Pullup/Chinup,0.6423,False,True,True,True,False,True,4
+U013,6,EX211,Pullup/Chinup: Chinup,0.6423,False,True,True,True,False,True,4
+U013,7,EX212,Pullup/Chinup: Parallel Close Grip Pull-up,0.6423,False,True,True,True,False,True,4
+U013,8,EX213,Pullup/Chinup: Parallel Grip Pull-up,0.6423,False,True,True,True,False,True,4
+U014,1,EX206,Bent-over Pullover,0.6439,True,True,True,True,True,True,5
+U014,2,EX167,Bent-over Row,0.5934,False,True,True,True,False,True,4
+U014,3,EX168,Bent-over Row: Underhand,0.5934,False,True,True,True,False,True,4
+U014,4,EX169,One Arm Bent-over Row,0.5934,False,True,True,True,False,True,4
+U014,5,EX170,One Arm Straight Back Seated High Row,0.5934,False,True,True,True,False,True,4
+U014,6,EX175,Bent-over Row,0.5934,False,True,True,True,False,True,4
+U014,7,EX193,Inverted Row,0.5934,False,True,True,True,False,True,4
+U014,8,EX194,Inverted Row,0.5934,False,True,True,True,False,True,4
+U015,1,EX171,Seated Row,0.5664,True,True,True,True,True,True,5
+U015,2,EX172,Seated Row: Straight Back,0.5664,True,True,True,True,True,True,5
+U015,3,EX173,Seated Wide Grip Row,0.5664,True,True,True,True,True,True,5
+U015,4,EX174,Seated Wide Grip Row: Straight Back,0.5664,True,True,True,True,True,True,5
+U015,5,EX176,Lying Row,0.5664,False,True,True,True,True,True,5
+U015,6,EX179,Seated Rows,0.5664,True,True,True,True,True,True,5
+U015,7,EX180,Seated Rows: Narrow Grip,0.5664,True,True,True,True,True,True,5
+U015,8,EX181,Seated Rows: Wide Grip Low Bar,0.5664,False,True,True,True,True,True,5
+U016,1,EX195,Inverted Row: Feet Elevated,0.8086,True,True,True,True,True,True,5
+U016,2,EX199,Inverted Row: One Arm,0.8086,True,True,True,True,True,True,5
+U016,3,EX225,Archer Pull-up,0.8086,False,True,True,True,True,True,5
+U016,4,EX226,Chin-up,0.8086,False,True,True,True,True,True,5
+U016,5,EX227,Pull-up,0.8086,True,True,True,True,True,True,5
+U016,6,EX228,Pull-up: Parallel Grip,0.8086,True,True,True,True,True,True,5
+U016,7,EX229,Archer Pull-up,0.8086,True,True,True,True,True,True,5
+U016,8,EX230,Chin-up,0.8086,True,True,True,True,True,True,5
+U017,1,EX221,Pullover,0.6969,True,True,True,True,True,True,5
+U017,2,EX242,Shrug,0.6969,True,True,True,True,True,True,5
+U017,3,EX243,Shrug with Stirrups,0.6969,True,True,True,True,True,True,5
+U017,4,EX245,Seated Shrug,0.6969,True,True,True,True,True,True,5
+U017,5,EX246,Shrug,0.6969,False,True,True,True,True,True,5
+U017,6,EX247,Shrug,0.6969,False,True,True,True,True,True,5
+U017,7,EX249,Shrug,0.6969,False,True,True,True,True,True,5
+U017,8,EX250,Inverted Shrug,0.6969,True,True,True,True,True,True,5
+U018,1,EX266,Bench Press,0.7289,True,True,True,True,True,True,5
+U018,2,EX268,Decline Bench Press,0.7289,False,True,True,True,True,True,5
+U018,3,EX277,Bench Press,0.7289,True,True,True,True,True,True,5
+U018,4,EX278,Decline Bench Press,0.7289,True,True,True,True,True,True,5
+U018,5,EX297,Chest Dip,0.7289,False,True,True,True,True,True,5
+U018,6,EX299,Chest Dip,0.7289,True,True,True,True,True,True,5
+U018,7,EX300,Chest Dip,0.7289,True,True,True,True,True,True,5
+U018,8,EX302,Push-up: Archer,0.7289,True,True,True,True,True,True,5
+U019,1,EX309,Clap Push-up,0.7656,True,True,True,True,True,True,5
+U019,2,EX324,Decline Push-up: on stability ball,0.7656,True,True,True,True,True,True,5
+U019,3,EX267,Bench Press: Power Lift,0.6305,False,True,True,False,True,True,4
+U019,4,EX277,Bench Press,0.6305,True,True,False,True,True,True,4
+U019,5,EX278,Decline Bench Press,0.6305,True,True,False,True,True,True,4
+U019,6,EX299,Chest Dip,0.6305,False,True,False,True,True,True,4
+U019,7,EX300,Chest Dip,0.6305,True,True,False,True,True,True,4
+U019,8,EX301,Push-up,0.6305,False,True,False,True,True,True,4
+U020,1,EX277,Bench Press,0.7656,True,True,True,True,True,True,5
+U020,2,EX278,Decline Bench Press,0.7656,True,True,True,True,True,True,5
+U020,3,EX299,Chest Dip,0.7656,True,True,True,True,True,True,5
+U020,4,EX300,Chest Dip,0.7656,True,True,True,True,True,True,5
+U020,5,EX302,Push-up: Archer,0.7656,True,True,True,True,True,True,5
+U020,6,EX305,Chest Dip,0.7656,True,True,True,True,True,True,5
+U020,7,EX306,Chest Dip,0.7656,False,True,True,True,True,True,5
+U020,8,EX307,Chest Press,0.7656,True,True,True,True,True,True,5
+U021,1,EX269,Flies,0.6439,True,True,True,True,True,True,5
+U021,2,EX270,Flies: Lying Fly,0.6439,True,True,True,True,True,True,5
+U021,3,EX271,Flies: Seated Fly,0.6439,True,True,True,True,True,True,5
+U021,4,EX272,Flies: Standing Fly,0.6439,True,True,True,True,True,True,5
+U021,5,EX279,Fly,0.6439,True,True,True,True,True,True,5
+U021,6,EX280,Pullover,0.6439,True,True,True,True,True,True,5
+U021,7,EX308,Fly,0.6439,True,True,True,True,True,True,5
+U021,8,EX314,Incline Fly,0.6439,True,True,True,True,True,True,5
+U022,1,EX309,Clap Push-up,0.8086,True,True,True,True,True,True,5
+U022,2,EX324,Decline Push-up: on stability ball,0.8086,True,True,True,True,True,True,5
+U022,3,EX267,Bench Press: Power Lift,0.6659,False,True,True,False,True,True,4
+U022,4,EX299,Chest Dip,0.6659,True,True,False,True,True,True,4
+U022,5,EX300,Chest Dip,0.6659,True,True,False,True,True,True,4
+U022,6,EX301,Push-up,0.6659,False,True,False,True,True,True,4
+U022,7,EX302,Push-up: Archer,0.6659,True,True,False,True,True,True,4
+U022,8,EX303,Push-up: Incline,0.6659,False,True,False,True,True,True,4
+U023,1,EX269,Flies,0.5664,True,True,True,True,True,True,5
+U023,2,EX270,Flies: Lying Fly,0.5664,True,True,True,True,True,True,5
+U023,3,EX271,Flies: Seated Fly,0.5664,True,True,True,True,True,True,5
+U023,4,EX272,Flies: Standing Fly,0.5664,True,True,True,True,True,True,5
+U023,5,EX279,Fly,0.5664,True,True,True,True,True,True,5
+U023,6,EX280,Pullover,0.5664,True,True,True,True,True,True,5
+U023,7,EX286,Flies,0.5664,False,True,True,True,True,True,5
+U023,8,EX287,Flies: Lying Fly,0.5664,False,True,True,True,True,True,5
+U024,1,EX333,Push-up Plus,0.6969,True,True,True,True,True,True,5
+U024,2,EX264,Chest Dip,0.6423,False,True,True,True,False,True,4
+U024,3,EX273,Presses,0.6423,False,True,True,True,False,True,4
+U024,4,EX274,Presses: Bench Press,0.6423,False,True,True,True,False,True,4
+U024,5,EX275,Presses: Chest Press Standing,0.6423,False,True,True,True,False,True,4
+U024,6,EX276,Presses: Decline Chest Press,0.6423,False,True,True,True,False,True,4
+U024,7,EX281,Bench Press,0.6423,False,True,True,True,False,True,4
+U024,8,EX282,Chest Dip,0.6423,False,True,True,True,False,True,4
+U025,1,EX470,Lunge,0.7289,False,True,True,True,True,True,5
+U025,2,EX471,Lunge: Rear Lunge,0.7289,False,True,True,True,True,True,5
+U025,3,EX475,Squat,0.7289,False,True,True,True,True,True,5
+U025,4,EX477,Squat: Trap Bar Squat,0.7289,True,True,True,True,True,True,5
+U025,5,EX478,Step-up,0.7289,False,True,True,True,True,True,5
+U025,6,EX484,Lunge,0.7289,False,True,True,True,True,True,5
+U025,7,EX485,Lunge: Rear Lunge,0.7289,True,True,True,True,True,True,5
+U025,8,EX486,Split Squat,0.7289,False,True,True,True,True,True,5
+U026,1,EX533,Lying Leg Curl,0.5664,True,True,True,True,True,True,5
+U026,2,EX537,Kneeling Leg Curl,0.5664,False,True,True,True,True,True,5
+U026,3,EX538,Seated Leg Curl,0.5664,False,True,True,True,True,True,5
+U026,4,EX540,Bent-over Leg Curl,0.5664,True,True,True,True,True,True,5
+U026,5,EX541,Kneeling Leg Curl,0.5664,True,True,True,True,True,True,5
+U026,6,EX542,Lying Leg Curl,0.5664,False,True,True,True,True,True,5
+U026,7,EX543,Seated Leg Curl,0.5664,True,True,True,True,True,True,5
+U026,8,EX544,Standing Leg Curl,0.5664,True,True,True,True,True,True,5
+U027,1,EX527,Glute-Ham Raise,0.6439,True,True,True,True,True,True,5
+U027,2,EX547,Glute-Ham Raise,0.6439,True,True,True,True,True,True,5
+U027,3,EX551,Glute-Ham Raise,0.6439,True,True,True,True,True,True,5
+U027,4,EX552,Glute-Ham Raise: hands behind hips,0.6439,True,True,True,True,True,True,5
+U027,5,EX553,Single Leg Hanging Hamstring Bridge,0.6439,True,True,True,True,True,True,5
+U027,6,EX472,Single Leg Split Squat,0.5429,False,True,True,True,False,False,3
+U027,7,EX473,Single Leg Split Squat: Side Split Squat,0.5429,False,True,True,True,False,False,3
+U027,8,EX474,Single Leg Split Squat: Single Leg Squat,0.5429,False,True,True,True,False,False,3
+U028,1,EX515,Single Leg Squat,0.8086,True,True,True,True,True,True,5
+U028,2,EX516,Single Leg Squat: Box,0.8086,True,True,True,True,True,True,5
+U028,3,EX518,Split Squat: Single Leg Split Squat,0.8086,True,True,True,True,True,True,5
+U028,4,EX522,Single Leg Squat (leg wrapped),0.8086,True,True,True,True,True,True,5
+U028,5,EX525,Single Leg Squat,0.8086,True,True,True,True,True,True,5
+U028,6,EX526,Single Leg Split Squat,0.8086,True,True,True,True,True,True,5
+U028,7,EX551,Glute-Ham Raise,0.6818,False,True,True,True,False,False,3
+U028,8,EX552,Glute-Ham Raise: hands behind hips,0.6818,False,True,True,True,False,False,3
+U029,1,EX484,Lunge,0.7656,False,True,True,True,True,True,5
+U029,2,EX485,Lunge: Rear Lunge,0.7656,True,True,True,True,True,True,5
+U029,3,EX486,Split Squat,0.7656,False,True,True,True,True,True,5
+U029,4,EX487,Squat,0.7656,True,True,True,True,True,True,5
+U029,5,EX489,Step-up,0.7656,False,True,True,True,True,True,5
+U029,6,EX490,Step-up: Step Down,0.7656,True,True,True,True,True,True,5
+U029,7,EX513,Rear Lunge,0.7656,True,True,True,True,True,True,5
+U029,8,EX514,Lunge,0.7656,True,True,True,True,True,True,5
+U030,1,EX533,Lying Leg Curl,0.6969,True,True,True,True,True,True,5
+U030,2,EX537,Kneeling Leg Curl,0.6969,False,True,True,True,True,True,5
+U030,3,EX538,Seated Leg Curl,0.6969,True,True,True,True,True,True,5
+U030,4,EX540,Bent-over Leg Curl,0.6969,True,True,True,True,True,True,5
+U030,5,EX541,Kneeling Leg Curl,0.6969,True,True,True,True,True,True,5
+U030,6,EX542,Lying Leg Curl,0.6969,True,True,True,True,True,True,5
+U030,7,EX543,Seated Leg Curl,0.6969,True,True,True,True,True,True,5
+U030,8,EX544,Standing Leg Curl,0.6969,True,True,True,True,True,True,5
+U031,1,EX527,Glute-Ham Raise,0.7289,True,True,True,True,True,True,5
+U031,2,EX547,Glute-Ham Raise,0.7289,True,True,True,True,True,True,5
+U031,3,EX551,Glute-Ham Raise,0.7289,True,True,True,True,True,True,5
+U031,4,EX552,Glute-Ham Raise: hands behind hips,0.7289,True,True,True,True,True,True,5
+U031,5,EX553,Single Leg Hanging Hamstring Bridge,0.7289,True,True,True,True,True,True,5
+U031,6,EX472,Single Leg Split Squat,0.6145,False,True,True,True,False,False,3
+U031,7,EX473,Single Leg Split Squat: Side Split Squat,0.6145,False,True,True,True,False,False,3
+U031,8,EX474,Single Leg Split Squat: Single Leg Squat,0.6145,False,True,True,True,False,False,3
+U032,1,EX088,Lying Triceps Extension,0.6439,True,True,True,True,True,True,5
+U032,2,EX089,Lying Triceps Extension: Skull Crusher,0.6439,True,True,True,True,True,True,5
+U032,3,EX100,Lying Triceps Extension,0.6439,True,True,True,True,True,True,5
+U032,4,EX110,Standing Triceps Dip,0.6439,True,True,True,True,True,True,5
+U032,5,EX087,Close Grip Bench Press,0.5934,False,True,True,True,False,True,4
+U032,6,EX112,Bench Dip,0.5934,False,True,True,True,False,True,4
+U032,7,EX115,Bench Dip,0.5934,False,True,True,True,False,True,4
+U032,8,EX117,Close Grip Push-up,0.5934,False,True,True,True,False,True,4
+U033,1,EX090,Triceps Extension,0.5664,False,True,True,True,True,True,5
+U033,2,EX091,Bent-over Triceps Extension,0.5664,True,True,True,True,True,True,5
+U033,3,EX092,Pushdown,0.5664,True,True,True,True,True,True,5
+U033,4,EX093,Pushdown: One Arm,0.5664,True,True,True,True,True,True,5
+U033,5,EX094,Pushdown: with back support,0.5664,True,True,True,True,True,True,5
+U033,6,EX095,Pushdown: with V-bar attachment,0.5664,True,True,True,True,True,True,5
+U033,7,EX097,Triceps Extension,0.5664,True,True,True,True,True,True,5
+U033,8,EX098,Triceps Extension: with rope,0.5664,True,True,True,True,True,True,5
+U034,1,EX113,Triceps Dip,0.7289,True,True,True,True,True,True,5
+U034,2,EX114,Triceps Dip,0.7289,True,True,True,True,True,True,5
+U034,3,EX120,Triceps Dip,0.7289,True,True,True,True,True,True,5
+U034,4,EX122,Triceps Dip,0.7289,True,True,True,True,True,True,5
+U034,5,EX085,Triceps Dip,0.6002,False,True,True,False,True,True,4
+U034,6,EX087,Close Grip Bench Press,0.6002,True,True,False,True,True,True,4
+U034,7,EX096,Triceps Dip,0.6002,False,True,True,False,True,True,4
+U034,8,EX105,Triceps Dip,0.6002,False,True,True,False,True,True,4
+U035,1,EX129,Incline Curl,0.6439,True,True,True,True,True,True,5
+U035,2,EX132,Preacher Curl,0.6439,True,True,True,True,True,True,5
+U035,3,EX133,Prone Incline Curl,0.6439,True,True,True,True,True,True,5
+U035,4,EX135,Preacher Curl,0.6439,True,True,True,True,True,True,5
+U035,5,EX136,Preacher Curl: Stirrups,0.6439,True,True,True,True,True,True,5
+U035,6,EX138,Preacher Curl,0.6439,True,True,True,True,True,True,5
+U035,7,EX088,Lying Triceps Extension,0.5934,False,True,True,True,True,False,4
+U035,8,EX089,Lying Triceps Extension: Skull Crusher,0.5934,False,True,True,True,True,False,4
+U036,1,EX123,Curl,0.5664,True,True,True,True,True,True,5
+U036,2,EX124,Alternating Curl,0.5664,True,True,True,True,True,True,5
+U036,3,EX125,Curl,0.5664,True,True,True,True,True,True,5
+U036,4,EX126,Curl: with stirrups,0.5664,True,True,True,True,True,True,5
+U036,5,EX127,Curl: One Arm Curl,0.5664,True,True,True,True,True,True,5
+U036,6,EX128,Curl,0.5664,True,True,True,True,True,True,5
+U036,7,EX130,Curl,0.5664,True,True,True,True,True,True,5
+U036,8,EX134,Concentration Curl,0.5664,True,True,True,True,True,True,5
+U037,1,EX085,Triceps Dip,0.6969,True,True,True,True,True,True,5
+U037,2,EX096,Triceps Dip,0.6969,True,True,True,True,True,True,5
+U037,3,EX105,Triceps Dip,0.6969,True,True,True,True,True,True,5
+U037,4,EX106,Triceps Dip,0.6969,True,True,True,True,True,True,5
+U037,5,EX107,Triceps Dip: alternative machine,0.6969,True,True,True,True,True,True,5
+U037,6,EX120,Triceps Dip,0.6969,True,True,True,True,True,True,5
+U037,7,EX122,Triceps Dip,0.6969,True,True,True,True,True,True,5
+U037,8,EX086,Triceps Dip: kneeling,0.5739,False,True,False,True,True,True,4
+U038,1,EX045,Upright Row,0.5664,False,True,True,True,True,True,5
+U038,2,EX048,Upright Row,0.5664,True,True,True,True,True,True,5
+U038,3,EX049,Upright Row: One Arm,0.5664,True,True,True,True,True,True,5
+U038,4,EX050,Upright Row: with rope,0.5664,True,True,True,True,True,True,5
+U038,5,EX054,Upright Row,0.5664,False,True,True,True,True,True,5
+U038,6,EX055,Upright Row: One Arm,0.5664,False,True,True,True,True,True,5
+U038,7,EX059,Upright Row,0.5664,False,True,True,True,True,True,5
+U038,8,EX061,Rear Delt Row,0.5664,True,True,True,True,True,True,5
+U039,1,EX046,Lateral Raise,0.6969,True,True,True,True,True,True,5
+U039,2,EX047,Lateral Raise: One Arm,0.6969,True,True,True,True,True,True,5
+U039,3,EX056,Lateral Raise,0.6969,False,True,True,True,True,True,5
+U039,4,EX057,Lateral Raise,0.6969,True,True,True,True,True,True,5
+U039,5,EX058,Lateral Raise: other machine,0.6969,True,True,True,True,True,True,5
+U039,6,EX062,Reverse Fly,0.6969,True,True,True,True,True,True,5
+U039,7,EX065,Rear Lateral Raise,0.6969,True,True,True,True,True,True,5
+U039,8,EX069,Lying Rear Lateral Raise,0.6969,False,True,True,True,True,True,5
+U040,1,EX051,Y Raise,0.6439,True,True,True,True,True,True,5
+U040,2,EX052,Incline Lateral Raise,0.6439,True,True,True,True,True,True,5
+U040,3,EX060,Y Raise,0.6439,True,True,True,True,True,True,5
+U040,4,EX045,Upright Row,0.5934,False,True,True,True,False,True,4
+U040,5,EX048,Upright Row,0.5934,False,True,True,True,False,True,4
+U040,6,EX049,Upright Row: One Arm,0.5934,False,True,True,True,False,True,4
+U040,7,EX050,Upright Row: with rope,0.5934,False,True,True,True,False,True,4
+U040,8,EX054,Upright Row,0.5934,False,True,True,True,False,True,4
+U041,1,EX022,Military Press,0.5664,True,True,True,True,True,True,5
+U041,2,EX029,Arnold Press,0.5664,True,True,True,True,True,True,5
+U041,3,EX034,Military Press,0.5664,True,True,True,True,True,True,5
+U041,4,EX042,Pike Press (between benches),0.5664,True,True,True,True,True,True,5
+U041,5,EX043,Pike Press (between benches): Elevated (between benches),0.5664,True,True,True,True,True,True,5
+U041,6,EX077,Rear Delt Inverted Row (high bar),0.5219,False,True,True,True,True,False,4
+U041,7,EX078,Rear Delt Inverted Row (on hips),0.5219,False,True,True,True,True,False,4
+U041,8,EX023,Military Press: Seated,0.4664,True,True,False,True,True,True,4
+U042,1,EX046,Lateral Raise,0.6439,True,True,True,True,True,True,5
+U042,2,EX047,Lateral Raise: One Arm,0.6439,True,True,True,True,True,True,5
+U042,3,EX053,Lateral Raise,0.6439,True,True,True,True,True,True,5
+U042,4,EX062,Reverse Fly,0.6439,True,True,True,True,True,True,5
+U042,5,EX065,Rear Lateral Raise,0.6439,True,True,True,True,True,True,5
+U042,6,EX066,Rear Lateral Raise,0.6439,False,True,True,True,True,True,5
+U042,7,EX068,Seated Rear Lateral Raise,0.6439,True,True,True,True,True,True,5
+U042,8,EX081,Front Lateral Raise,0.6439,True,True,True,True,True,True,5
+U043,1,EX567,Standing Calf Raise: One Arm Single Leg Calf Raise,0.6969,True,True,True,True,True,True,5
+U043,2,EX570,45° Calf Press,0.6969,True,True,True,True,True,True,5
+U043,3,EX574,45° Calf Raise,0.6969,True,True,True,True,True,True,5
+U043,4,EX576,Donkey Calf Raise,0.6969,True,True,True,True,True,True,5
+U043,5,EX585,Donkey Calf Raise,0.6969,True,True,True,True,True,True,5
+U043,6,EX589,Standing Calf Raise: Single Leg,0.6969,True,True,True,True,True,True,5
+U043,7,EX590,Single Leg Calf Raise,0.6969,True,True,True,True,True,True,5
+U043,8,EX598,Reverse Calf Raise: Single Leg,0.6423,False,True,True,True,True,False,4
+U044,1,EX565,Standing Calf Raise,0.5303,False,True,False,True,True,True,4
+U044,2,EX566,Standing Calf Raise,0.5303,False,True,False,True,True,True,4
+U044,3,EX567,Standing Calf Raise: One Arm Single Leg Calf Raise,0.5303,True,True,False,True,True,True,4
+U044,4,EX568,Standing Calf Raise,0.5303,False,True,False,True,True,True,4
+U044,5,EX569,Standing Calf Raise: Single Leg,0.5303,True,True,False,True,True,True,4
+U044,6,EX579,45° Calf Press,0.5303,True,True,False,True,True,True,4
+U044,7,EX580,45° Calf Raise,0.5303,True,True,False,True,True,True,4
+U044,8,EX581,Donkey Calf Raise,0.5303,True,True,False,True,True,True,4
+U045,1,EX565,Standing Calf Raise,0.5664,True,True,True,True,True,True,5
+U045,2,EX566,Standing Calf Raise,0.5664,True,True,True,True,True,True,5
+U045,3,EX568,Standing Calf Raise,0.5664,True,True,True,True,True,True,5
+U045,4,EX571,Calf Extension,0.5664,False,True,True,True,True,True,5
+U045,5,EX572,Seated Calf Press,0.5664,False,True,True,True,True,True,5
+U045,6,EX573,Standing Calf Raise,0.5664,False,True,True,True,True,True,5
+U045,7,EX575,Calf Extension,0.5664,True,True,True,True,True,True,5
+U045,8,EX577,Seated Calf Press,0.5664,True,True,True,True,True,True,5
+U046,1,EX566,Standing Calf Raise,0.5739,False,True,False,True,True,True,4
+U046,2,EX567,Standing Calf Raise: One Arm Single Leg Calf Raise,0.5739,True,True,False,True,True,True,4
+U046,3,EX570,45° Calf Press,0.5739,True,True,False,True,True,True,4
+U046,4,EX571,Calf Extension,0.5739,False,True,False,True,True,True,4
+U046,5,EX572,Seated Calf Press,0.5739,False,True,False,True,True,True,4
+U046,6,EX573,Standing Calf Raise,0.5739,False,True,False,True,True,True,4
+U046,7,EX574,45° Calf Raise,0.5739,True,True,False,True,True,True,4
+U046,8,EX575,Calf Extension,0.5739,False,True,False,True,True,True,4
+U047,1,EX144,Reverse Curl,0.5303,False,True,False,True,True,True,4
+U047,2,EX145,Hammer Curl,0.5303,True,True,False,True,True,True,4
+U047,3,EX146,Reverse Curl,0.5303,True,True,False,True,True,True,4
+U047,4,EX147,Hammer Curl,0.5303,False,True,False,True,True,True,4
+U047,5,EX149,Wrist Curl,0.5303,True,True,False,True,True,True,4
+U047,6,EX150,Wrist Curl,0.5303,True,True,False,True,True,True,4
+U047,7,EX151,Wrist Curl,0.5303,True,True,False,True,True,True,4
+U047,8,EX156,One Hand Grip,0.5303,True,True,False,True,True,True,4
+U048,1,EX145,Hammer Curl,0.6969,True,True,True,True,True,True,5
+U048,2,EX146,Reverse Curl,0.6969,True,True,True,True,True,True,5
+U048,3,EX148,Reverse Curl,0.6969,False,True,True,True,True,True,5
+U048,4,EX150,Wrist Curl,0.6969,True,True,True,True,True,True,5
+U048,5,EX152,Grip,0.6969,False,True,True,True,True,True,5
+U048,6,EX153,Wrist Curl,0.6969,True,True,True,True,True,True,5
+U048,7,EX154,Grip,0.6969,True,True,True,True,True,True,5
+U048,8,EX155,Wrist Curl,0.6969,True,True,True,True,True,True,5
+U049,1,EX001,Neck Flexion,0.5664,True,True,True,True,True,True,5
+U049,2,EX002,Neck Flexion,0.5664,True,True,True,True,True,True,5
+U049,3,EX003,Lateral Neck Flexion,0.5664,False,True,True,True,True,True,5
+U049,4,EX004,Neck Flexion,0.5664,True,True,True,True,True,True,5
+U049,5,EX005,Lateral Neck Flexion,0.5664,True,True,True,True,True,True,5
+U049,6,EX006,Neck Flexion,0.5664,True,True,True,True,True,True,5
+U049,7,EX007,Lateral Neck Flexion,0.5664,False,True,True,True,True,True,5
+U049,8,EX010,Neck Flexion,0.5664,True,True,True,True,True,True,5
+U050,1,EX009,Wall Side Neck Bridge,0.5664,True,True,True,True,True,True,5
+U050,2,EX016,Seated Neck Extension: Harness,0.5664,True,True,True,True,True,True,5
+U050,3,EX018,Wall Rear Neck Bridge,0.5664,True,True,True,True,True,True,5
+U050,4,EX008,Wall Front Neck Bridge,0.5219,False,True,True,True,True,False,4
+U050,5,EX001,Neck Flexion,0.4664,True,True,False,True,True,True,4
+U050,6,EX002,Neck Flexion,0.4664,False,True,False,True,True,True,4
+U050,7,EX003,Lateral Neck Flexion,0.4664,False,True,False,True,True,True,4
+U050,8,EX004,Neck Flexion,0.4664,True,True,False,True,True,True,4
