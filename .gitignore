@@ -3,6 +3,16 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
 # C extensions
 *.so
 
